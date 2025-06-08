@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: text-summarizer
+Version: 1.0.0
+Summary: A floating desktop text summarizer application
+Requires-Python: >=3.7
+Requires-Dist: pyperclip>=1.8.2
+Requires-Dist: Pillow>=10.0.0
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

@@ -1,0 +1,3 @@
+# python setup.py sdist bdist_wheel  # Create distribution files
+  pip install dist/text-summarizer-1.0.0.tar.gz  # Install from file
+# pip install text-summarizer  # Anyone can install globally
