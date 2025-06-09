@@ -1,3 +1,3 @@
 The process to the paragraph summarizer is given in there
 
-The cool stuff is it provide a small window 
+A cool stuff as it also provides a small window 
